@@ -13,7 +13,7 @@ import requests
 ping_url="https://www.baidu.com/"   #heroku app 或 aria2  prc的网址，用于检测aria2是否在线
 prc_password=""     #prc密码
 rpc_url = "http://ip:6800/jsonrpc"      #改成自己的aria2 rpc链接
-dir="/root/pan/download"     #下载地址，末尾不需要 /
+dir="/root/downloads"     #下载地址，末尾不需要 /
 
 
 
